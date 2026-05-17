@@ -2,7 +2,6 @@
 
 **Source project:** [open-smartwatch-light](https://github.com/Open-Smartwatch/open-smartwatch-light)  
 **CAD library:** [build123d](https://github.com/gumyr/build123d) (Python)  
-**Task ID:** TID1318107
 
 ---
 
